@@ -65,12 +65,12 @@ heroButtons:
 # About Block
 aboutTitle: "About MathDay2024"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Share Ideas", image: "share.jpg", text: "Share your mathematical ideas with others!" }
+ - {title: "Be Social", image: "community.jpg", text: "Have fun and play some games with other like-minded people!" }
+ - {title: "Learn Tools", image: "learn.jpg", text: "Learn how mathematics can make engineer more robust and reliable!" }
 
 # Guests block
-guestTitle: "Unconference talks"
+guestTitle: "Speakers"
 guestBlock:
  - {title: "Tommi<br>Sottinen", image: "sottinen.jpg", text: ""}
  - {title: "Luca<br>Ferranti", image: "ferranti.jpg", text: ""}
