@@ -72,9 +72,9 @@ aboutBlock:
 # Guests block
 guestTitle: "Unconference talks"
 guestBlock:
- - {title: "Tommi<br>Sottinen", image: "hari.jpg", text: ""}
- - {title: "Luca<br>Ferranti", image: "parkkonen.jpg", text: ""}
- - {title: "Bernd<br>Pape", image: "aklami.jpg", text: ""}
+ - {title: "Tommi<br>Sottinen", image: "sottinen.jpg", text: ""}
+ - {title: "Luca<br>Ferranti", image: "sottinen.jpg", text: ""}
+ - {title: "Bernd<br>Pape", image: "pape.jpg", text: ""}
 
 
 # Statistic Block
