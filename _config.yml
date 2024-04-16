@@ -35,7 +35,6 @@ socialImageSrcGooglePlus: ""
 socialImageSrcTwitter: ""
 socialImageSrcFacebook: ""
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
