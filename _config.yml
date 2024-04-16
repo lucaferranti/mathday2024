@@ -69,6 +69,14 @@ aboutBlock:
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
+# Guests block
+guestTitle: "Unconference talks"
+guestBlock:
+ - {title: "Tommi<br>Sottinen", image: "hari.jpg", text: ""}
+ - {title: "Luca<br>Ferranti", image: "parkkonen.jpg", text: ""}
+ - {title: "Bernd<br>Pape", image: "aklami.jpg", text: ""}
+
+
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
