@@ -2,39 +2,39 @@
   id: 1
   name: "Tommi Sottinen"
   title: "Diving into the Fascinating Realms of the Heat Equation and Brownian Motion"
-  thumbnailUrl: sottinen.jpg
+  thumbnailUrl: "sottinen.jpg"
   rockstar: true
    
 - 
   id: 2
   name: "Luca Ferranti"
   title: "The maths behind machine learning and artificial intelligence, what works and what doesn't and why."
-  thumbnailUrl: ferranti.jpg
+  thumbnailUrl: "ferranti.jpg"
   rockstar: true
 
 - 
   id: 3
   name: "Bernd Pape"
   title: "Deciphering the Monty Hall Problem - How to Secure the Car and Avoid the Goat"
-  thumbnailUrl: pape.jpg
+  thumbnailUrl: "pape.jpg"
   rockstar: true
 
 - 
   id: 4
   name: "Foad Shokrollahi"
   title: "Unveiling the World of Discrete Markov Chains and Their Applications"
-  thumbnailUrl: 
+  thumbnailUrl: ""
   rockstar: true
 - 
   id: 5
   name: "Hendrik Wietsma"
   title: "Formulate & solve numerically some physically motivated phenomenon with differential equations."
-  thumbnailUrl: 
+  thumbnailUrl: ""
   rockstar: true
 
 - 
   id: 6
   name: "Samuli Siltanen"
   title: "The magic of math: three-dimensional X-ray vision"
-  thumbnailUrl:
+  thumbnailUrl: ""
   rockstar: true
