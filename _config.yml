@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "MathDay 2024 Vaasa"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: ""
+description: "An event to share and promote the beauty of maths in engineering."
 baseurl: "/mathday2024"
 url: "https://lucaferranti.com/mathday2024"
 permalink: "/blog/:title"
@@ -46,11 +46,11 @@ navigationLinks:
  - {permalink: "/#about", text: "About"}
  - {permalink: "/#guest", text: "Speakers"}
  - {permalink: "/#schedule", text: "Schedule"}
- - {permalink: "/#logistics", text: "Logistics"}
+# - {permalink: "/#logistics", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://forms.gle/6mWUY5tevPTFfRtb6", text: "Register"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://forms.gle/6mWUY5tevPTFfRtb6", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,7 +59,7 @@ eventDate: "April 25th, 2024"
 typeoutTextValues: '"", "April 25th", "University of Vaasa", "Finland"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Register now!"}
+ - {link: "https://forms.gle/6mWUY5tevPTFfRtb6", text: "Register now!"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -73,7 +73,7 @@ aboutBlock:
 guestTitle: "Unconference talks"
 guestBlock:
  - {title: "Tommi<br>Sottinen", image: "sottinen.jpg", text: ""}
- - {title: "Luca<br>Ferranti", image: "sottinen.jpg", text: ""}
+ - {title: "Luca<br>Ferranti", image: "ferranti.jpg", text: ""}
  - {title: "Bernd<br>Pape", image: "pape.jpg", text: ""}
 
 
@@ -116,8 +116,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "University of Vaasa"
+venueFeatures: ["arcade videogames", "seaview", "Most beautiful campus in Finland"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -185,11 +185,6 @@ socialLinks:
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
