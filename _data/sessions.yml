@@ -30,6 +30,12 @@
 -
   id: 005
   title: "Game session"
-  description: "Let's have some fun together playing some videogames!"
+  description: "Let's have some fun together playing some videogames! With snacks and drinks for registered participants"
+  service: true
+  place: "TBD"
+-
+  id: 006
+  title: "Morning snacks"
+  description: "Coffee and pulla to activate the brain before starting"
   service: true
   place: "TBD"

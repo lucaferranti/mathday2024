@@ -5,6 +5,11 @@
     - {title: "Talks and discussion", color: "#90be4e"}
   timeslots:
     - {
+    	startTime: "09:30",
+    	endTime: "10:00",
+    	sessionIds: [006]
+    }
+    - {
     	startTime: "10:00",
     	endTime: "11:00",
     	sessionIds: [001]
