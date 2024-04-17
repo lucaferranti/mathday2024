@@ -59,7 +59,7 @@ eventDate: "April 25th, 2024"
 typeoutTextValues: '"", "April 25th", "University of Vaasa", "Finland"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://forms.gle/6mWUY5tevPTFfRtb6", text: "Register by April 23th!"}
+ - {link: "https://forms.gle/6mWUY5tevPTFfRtb6", text: "Register by April 23rd!"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
