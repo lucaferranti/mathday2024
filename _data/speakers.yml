@@ -23,7 +23,7 @@
   id: 4
   name: "Foad Shokrollahi"
   title: "Unveiling the World of Discrete Markov Chains and Their Applications"
-  thumbnailUrl: ""
+  thumbnailUrl: "foad.jpg"
   rockstar: true
 - 
   id: 5
@@ -36,5 +36,5 @@
   id: 6
   name: "Samuli Siltanen"
   title: "The magic of math: three-dimensional X-ray vision"
-  thumbnailUrl: ""
+  thumbnailUrl: "siltanen.jpeg"
   rockstar: true
