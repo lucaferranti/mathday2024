@@ -59,7 +59,7 @@ eventDate: "April 25th, 2024"
 typeoutTextValues: '"", "April 25th", "University of Vaasa", "Finland"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://forms.gle/6mWUY5tevPTFfRtb6", text: "Register now!"}
+ - {link: "https://forms.gle/6mWUY5tevPTFfRtb6", text: "Register by April 24th!"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -75,7 +75,8 @@ guestBlock:
  - {title: "Tommi<br>Sottinen", image: "sottinen.jpg", text: ""}
  - {title: "Luca<br>Ferranti", image: "ferranti.jpg", text: ""}
  - {title: "Bernd<br>Pape", image: "pape.jpg", text: ""}
-
+ - {title: "Foad<br>Shokrollahi", image: "foad.jpg", text: ""}
+ - {title: "Samuli<br>Siltanen", image: "siltanen.jpeg", text: ""}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

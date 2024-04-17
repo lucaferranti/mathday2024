@@ -1,14 +1,14 @@
 -
   id: 503
   title: "Lunch break"
-  place: "TBD"
-  description: ""
+  place: "Restaurant August"
+  description: "Restaurant August"
   service: true
 -
   id: 001
   title: "Talks"
-  description: ""
-  place: "TBD"
+  description: "Fabriikki, room F118"
+  place: "Fabriikki, room F118"
   speakers: [1, 2, 3]
 -
   id: 002
@@ -18,19 +18,19 @@
 -
   id: 003
   title: "Talks"
-  description: ""
-  place: "TBD"
+  description: "Fabriikki, room F118"
+  place: "Fabriikki, room F118"
   speakers: [4, 5, 6]
 -
   id: 004
   title: "How and why math works?"
   description: "Interactive discussion with coffee and snacks"
   service: true
-  place: "TBD"
+  place: "Fabriikki, room F118"
 -
   id: 005
   title: "Game session"
-  description: "Let's have some fun together playing some videogames! With snacks and drinks for registered participants"
+  description: "Let's have some fun together playing some videogames on Fabriikki's second floor! With snacks and drinks for registered participants!"
   service: true
   place: "TBD"
 -
@@ -38,4 +38,4 @@
   title: "Morning snacks"
   description: "Coffee and pulla to activate the brain before starting"
   service: true
-  place: "TBD"
+  place: "Fabriikki, room F118"
